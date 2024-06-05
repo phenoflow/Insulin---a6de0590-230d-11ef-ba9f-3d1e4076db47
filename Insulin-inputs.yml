@@ -1,0 +1,69 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/insulin-315ml---primary.py
+inputModule3:
+  class: File
+  path: python/insulin-500unit---primary.py
+inputModule4:
+  class: File
+  path: python/insulin-humaject---primary.py
+inputModule5:
+  class: File
+  path: python/abasaglar-insulin---primary.py
+inputModule6:
+  class: File
+  path: python/insulin-fiasp---primary.py
+inputModule7:
+  class: File
+  path: python/rapid-insulin---primary.py
+inputModule8:
+  class: File
+  path: python/insulin-sanofi---primary.py
+inputModule9:
+  class: File
+  path: python/actrapid-insulin---primary.py
+inputModule10:
+  class: File
+  path: python/insulin-detemir---primary.py
+inputModule11:
+  class: File
+  path: python/insulin-isoph---primary.py
+inputModule12:
+  class: File
+  path: python/insulin-aspart---primary.py
+inputModule13:
+  class: File
+  path: python/insulin-glulisine---primary.py
+inputModule14:
+  class: File
+  path: python/insulin-opticlik---primary.py
+inputModule15:
+  class: File
+  path: python/insulin-blister---primary.py
+inputModule16:
+  class: File
+  path: python/insulin-novomix---primary.py
+inputModule17:
+  class: File
+  path: python/insulin-lispro---primary.py
+inputModule18:
+  class: File
+  path: python/insulin-exubera---primary.py
+inputModule19:
+  class: File
+  path: python/junior-insulin---primary.py
+inputModule20:
+  class: File
+  path: python/insulin-lixis---primary.py
+inputModule21:
+  class: File
+  path: python/insulin-toujeo---primary.py
+inputModule22:
+  class: File
+  path: python/insulin-suliqua---primary.py
+inputModule23:
+  class: File
+  path: python/output-cases.py
